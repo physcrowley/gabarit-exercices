@@ -1,8 +1,11 @@
 # Mon dossier des exercices et projets pour le cours ICS3U
 
-Je veux... | Référence pertinente
---- | ---
-Comprendre Git et GitHub | Voir le site du cours, section 1-Bases > Git et GitHub à l'adresse suivante : [https://physcrowley.github.io/ICS3U/1-Bases](https://physcrowley.github.io/ICS3U/1-Bases)
+Voici une courte liste pour les questions fréquentes :
+
+Comprendre Git et GitHub
+: Voir le site du cours, section 1-Bases > Git et GitHub à l'adresse suivante : [https://physcrowley.github.io/ICS3U/1-Bases](https://physcrowley.github.io/ICS3U/1-Bases)
+: Voir la section pertinente de la [documentation pour VS Code](https://code.visualstudio.com/docs/editor/github#_setting-up-a-repository) - ignorer les détails sur les Suggestions, Pull Requests et Issues. On ne s'en servira pas.
+
 Trouver les exercices à faire | Voir le [site du cours](https://physcrowley.github.io/ICS3U) au bas de chaque section et le Google Classroom pour les détails spécifiques sur comment rendre le travail
 Trouver la rétroaction sur mon travail | Aller dans mon compte GitHub à l'onglet `Issues`
 
