@@ -64,7 +64,7 @@ Pour les prochains *commit*, ce sont les étapes 5 à 7 qui se répètent. Cela 
 ### Partie 2 - Synchroniser avec GitHub
 
 1. À la barre d'état au bas de la fenêtre de VS Code, vous verrez tout à gauche le symbole des versions avec le mot `main` qui signifie que nous sommes sur la branche `main` de notre dossier. Immédiatement à la droite vous verrez différentes flèches selon l'état de synchronisation.
-    * S'il n'y a rien à synchroniser, ce sera deux flèches en cercle, un peu comme `🔄`.
+    * S'il n'y a rien à synchroniser, ce sera juste deux flèches en cercle, un peu comme `🔄`.
     * S'il y a des changements sur votre ordi qui ne sont pas sur GitHub, vous verrez quelque chose comme `⬇0 ⬆2` pour indiquer qu'on a quelque chose à envoyer.
     * S'il y a des changements sur GitHub qui ne sont pas sur votre ordi, vous verrez quelque chose comme `⬇3 ⬆0` pour indiquer qu'il y a quelque chose à télécharger.
 2. Les changements faits sur votre ordi sont seulement indiqués s'il y a un *commit*, donc les chiffres représentent le nombre de *commits* depuis la dernière synchronisation.
