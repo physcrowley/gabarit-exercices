@@ -1,1 +1,0 @@
-Ceci est pour tester comment fonction un commit et une synchronisation avec GitHub.
