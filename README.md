@@ -1,4 +1,4 @@
-# Mon dossier des exercices et projets pour le cours ICS3U
+# Mon dossier des exercices et projets pour le cours ICS
 
 Voici une courte liste pour les **questions fréquentes** :
 
@@ -9,7 +9,9 @@ Comprendre Git et GitHub
 
 Trouver les exercices à faire
 
-* Voir le [site du cours](https://physcrowley.github.io/ICS3U) au bas de chaque section pour les questions
+* Voir le site du cours au bas de chaque section pour les questions
+    * Le [site 3U](https://physcrowley.github.io/ICS3U) 
+    * Le [site 4U](https://physcrowley.github.io/ICS4U)
 * Voir Google Classroom pour les détails spécifiques sur comment rendre le travail
 
 Trouver la rétroaction sur mon travail
