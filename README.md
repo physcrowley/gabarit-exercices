@@ -61,6 +61,8 @@ La synchronisation se passe en deux étapes quand vous avez travaillez sur votre
     * Le `+` à côté de *Changes* ajoute tous les fichiers disponibles au prochain *commit* tandis que le `+` à côté des fichiers vous permet d'ajouter les fichiers individuellement.
 7. Il ne reste qu'à taper un court message (<50 caractères) pour indiquer quel changement est à synchroniser, p. ex. "ajouter un fichier de test de synchronisation", et de cliquer sur le `✔`. Le crochet lance le *commit* et le fichier disparaît parce l'état du dossier est maintenant identique à l'état du dernier *commit*.
 
+> Pour le tout premier *commit* sur votre système, on vous demandera de configurer `user.name` et `user.email`. Vous devrez alors entrer les deux commandes suivantes à la console : `git config --global user.name [nom]` et `git config --global user.email [courriel]` où les valeurs [nom] et [courriel] sont idéalement les informations que vous utilisez pour GitHub. Vous pouvez confirmer que les valeurs ont été correctements saisies avec les commandes `git config --get user.name` et `git config --get user.email`.
+
 Pour les prochains *commit*, ce sont les étapes 5 à 7 qui se répètent. Cela deviendra très routinier avec la pratique.
 
 ### Partie 2 - Synchroniser avec GitHub
